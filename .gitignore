@@ -1,0 +1,5 @@
+# Only the encrypted data package goes online. Everything else in this folder stays on this PC.
+/*
+!/.gitignore
+!/README.md
+!/8cgl.dat
